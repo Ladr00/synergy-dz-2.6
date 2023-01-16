@@ -5,7 +5,7 @@ int main()
     
     int day, month, year, zodiac;
 
-    printf("Vvedite datu rojdenia. ");
+    printf("God rojdenia. ");
     printf("day: ");
     scanf("%i",&day);
     printf("mount: ");
